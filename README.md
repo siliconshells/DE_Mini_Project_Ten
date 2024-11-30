@@ -3,7 +3,7 @@
 [![CI](https://github.com/nogibjj/DE_Mini_Project_Ten/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/DE_Mini_Project_Ten/actions/workflows/cicd.yml)
 
 
-This repository is created as an assignment from the Data Engineering course, IDS 706. The aim is to create a python project for PySpark Data Processing.
+This repository is created as an assignment from the Data Engineering course, IDS 706. The aim is to create a python project for PySpark Data Processing.   
 
 The requirements are:
 1. Do the standard CI/CD setup
