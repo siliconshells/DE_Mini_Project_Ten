@@ -1,6 +1,6 @@
 # Data Engineering Mini Project Ten
 
-[![CI](https://github.com/nogibjj/DE_Mini_Project_Ten/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/DE_Mini_Project_Ten/actions/workflows/cicd.yml)
+[![CI](https://github.com/siliconshells/DE_Mini_Project_Ten/actions/workflows/cicd.yml/badge.svg)](https://github.com/siliconshells/DE_Mini_Project_Ten/actions/workflows/cicd.yml)
 
 
 This repository is created as an assignment from the Data Engineering course, IDS 706. The aim is to create a python project for PySpark Data Processing.   
@@ -11,8 +11,8 @@ The requirements are:
 1. Include at least one Spark SQL query and one data transformation
 
 ## Observations
-1. Having a file called pyspark.py in root of the repository will may pyspark fail to install correctly
-1. It is extremely inefficient to add a row at a time to pyspark. It will make the Mac fans come on :) Better to add all tuples to a list and add to pyspark at a go if you must process a row at a time for insertion.
+1. Having a file called pyspark.py in the root of the repository will make PySpark fail to install correctly and thus unusable.
+1. It is very inefficient to add a row at a time to PySpark. It will make the Mac fans come on :) Better to add all tuples to a list and add to PySpark at a go if you must process a row at a time for insertion.
 
 ## The functions and what they do
 
